@@ -2,7 +2,7 @@
 
 *Created: 2026-05-19 | 每周五天，每天 2–4 小时*
 
-## Week 1：AI 基础 + Web3 基础（2026-05-19 ~ 2026-05-23）
+## Week 1：AI 基础 + Web3 基础（2026-05-19 ~ 2026-05-24）
 
 > 策略：**由输出倒推输入**——每天以「当天要完成哪个交付物」为目标，倒推需要学什么。
 > 详细任务要求见 [tasks/week1-tasks.md](tasks/week1-tasks.md)
@@ -10,10 +10,11 @@
 | 天 | 日期 | 核心交付物 | 对应任务 | 学习输入 | 预计时长 |
 |----|------|-----------|---------|---------|----------|
 | Day 1 | 05-19（周二） | GitHub repo 初始化 + Learning Agent 配置 | T2 ✅ | Handbook LLM/Agent 章节，启动 Prompt | 2–3h |
-| Day 2 | 05-20（周三） | AI 基础概念卡片（6个） | T1 | LLM、prompt、context、workflow、agent、tool use | 2–3h |
-| Day 3 | 05-21（周四） | Web3 基础概念卡片（6个）+ 测试网交易 | T4 + T5 | 钱包/地址/签名/Gas，Sepolia faucet，MetaMask | 3–4h |
-| Day 4 | 05-22（周五） | 最小合约部署/调用 + AI×Web3 流程图 | T6 + T8 | Remix，区块浏览器，流程图工具（draw.io/Excalidraw） | 3–4h |
-| Day 5 | 05-23（周六） | AI 可交互学习产物 + 学习总结发布 + PoW Pack | T3 + T11 + T9 | 整合本周所有产出，整理 README，发布总结 | 4h |
+| — | 05-20（周三） | 未学习，Week 1 计划顺延一天 | — | — | — |
+| Day 2 | 05-21（周四） | AI 基础概念卡片（6个） | T1 | Handbook AI 基础章节：LLM、prompt、context、workflow、agent、tool use | 2–3h |
+| Day 3 | 05-22（周五） | Web3 基础概念卡片（6个）+ 测试网交易 | T4 + T5 | 钱包/地址/签名/Gas，Sepolia faucet，MetaMask | 3–4h |
+| Day 4 | 05-23（周六） | 最小合约部署/调用 + AI×Web3 流程图 | T6 + T8 | Remix，区块浏览器，流程图工具（draw.io/Excalidraw） | 3–4h |
+| Day 5 | 05-24（周日） | AI 可交互学习产物 + 学习总结发布 + PoW Pack | T3 + T11 + T9 | 整合本周所有产出，整理 README，发布总结 | 4h |
 
 **进阶任务（按精力选做）**：
 - T7 EOA/智能账户/多签比较（+30）→ 穿插 Day 3–4
